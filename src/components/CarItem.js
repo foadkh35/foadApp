@@ -14,7 +14,6 @@ const CarItem = props => {
                 <Text style={styles.txt}>{`km: ${km}`}</Text>
                 <Text style={styles.txt}>{`price: ${price}`}</Text>
             </View>
-            <Text style={styles.firstUI}>My First UI</Text>
         </View>
     )
 }
